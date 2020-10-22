@@ -263,3 +263,22 @@ footer {
 .center {
     text-align: center;
 }
+#features{
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.font{
+color:red;
+  margin-left:46%;
+
+  font-size: 2rem;
+}
+.font:hover{
+  color:#ff4c68;
+
+}
+#title{
+  background-color: #ff4c68;
+
+}
